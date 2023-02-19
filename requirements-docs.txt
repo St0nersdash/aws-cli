@@ -6,3 +6,4 @@ jinja2<3.1
 docutils>=0.10,<0.17
 Sphinx==3.0.4
 -e .
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
