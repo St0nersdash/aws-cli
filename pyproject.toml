@@ -28,7 +28,7 @@ classifiers = [
 ]
 dependencies = [
     "colorama>=0.2.5,<0.4.7",
-    "docutils>=0.10,<0.21",
+    "docutils>=0.10,<0.22",
     "cryptography>=3.3.2,<=38.0.1",
     "ruamel.yaml>=0.15.0,<=0.17.21",
     "wcwidth<0.3.0",
